@@ -19,10 +19,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **IntelliJ IDEA**: Ambiente de desenvolvimento (IDE).
 - **Git & GitHub**: Controle de versão e hospedagem.
 
-### ✨ Mentoria e Aperfeiçoamento
-Durante o processo de desenvolvimento e resolução de desafios de infraestrutura e Git, o projeto foi aperfeiçoado com o auxílio de:
-- **Google Gemini**: Suporte na estruturação da lógica e revisão de código.
-- **Claude Code**: Auxílio no refinamento técnico e boas práticas.
+### ✨ Processo de Desenvolvimento
+O projeto foi desenvolvido com pesquisa, estudo e auxílio de ferramentas de apoio ao aprendizado.
 
 ## 📦 Como executar
 
