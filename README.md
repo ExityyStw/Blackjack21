@@ -1,6 +1,6 @@
 # Blackjack 21 - Hack the Favela 2026
 
-Este projeto é um jogo de baralho Blackjack ("21") desenvolvido em Java como parte da avaliação técnica para o **Hack de Favela 2026**.
+Este projeto é um jogo de baralho Blackjack ("21") desenvolvido em Java como parte da avaliação técnica para o **Hack the Favela 2026**.
 
 ## 🚀 Sobre o Projeto
 
@@ -32,4 +32,4 @@ Durante o processo de desenvolvimento e resolução de desafios de infraestrutur
 3. Execute o arquivo principal `Blackjack.java` através do seu terminal ou IDE favorita.
 
 ---
-Desenvolvido por **Igor** para o Hack de Favela 2026.
+Desenvolvido por **Igor** para o Hack the Favela 2026.
